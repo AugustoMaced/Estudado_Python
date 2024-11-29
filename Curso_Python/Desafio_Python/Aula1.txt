@@ -1,0 +1,5 @@
+a ula de hoje foi fazer um projeto
+esse projeto era fazer como se fosse um note 
+é um crud 
+um crud em Python
+
